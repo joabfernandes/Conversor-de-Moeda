@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Projetos\Conversor-de-Moeda\.metadata\.plugins\org.eclipse.jdt.core
+2957572601.index
+3011209426.index
+1865797976.index
